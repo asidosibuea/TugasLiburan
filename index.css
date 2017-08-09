@@ -1,0 +1,33 @@
+.container{
+	background-color: #ffffff;
+	margin : auto;
+    padding-top: 100px;
+    padding-right: 0px;
+    padding-bottom: 10px;
+    padding-left: 0px;
+}
+
+.container-fluid{
+	background-color: #ffffff;
+	margin : auto;
+    padding-top: 10px;
+    padding-right: 0px;
+    padding-bottom: 10px;
+    padding-left: 0px;
+}
+
+.navbar {
+	padding-top: 10px;
+    padding-right: 0px;
+    padding-bottom: 10px;
+    padding-left: 0px;
+    margin: auto;
+    font-family: 'Saira', sans-serif;
+    font-size: 150%;
+}
+
+h1{
+	font-family: 'Saira', sans-serif;
+    font-size: 200%;
+}
+
